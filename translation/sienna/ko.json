@@ -555,7 +555,7 @@
     "pbw_castle_vo_crypt_discovered_02": "끝난 게 아니야, 자기들. 지하묘지에 있는 너글로스의 악마 주인을 처치해야 해.",
     "pbw_gameplay_seeing_a_chaos_spawn_06": "스폰에게 잡히지 마, 자기들!",
     "pbw_gameplay_player_pounced_04": "태워버려!",
-    "pbw_gameplay_hunter_kills_3_specials_in_a_row_02": "네겐 죽음이 쉽게 다가가는 것 같네, 솔츠파이어. ",
+    "pbw_gameplay_hunter_kills_3_specials_in_a_row_02": "네 근처엔 항상 죽음이 가득하네, 솔츠파이어.",
     "pbw_gameplay_seeing_a_chaos_wizard_tentacle_01": "워프소환사다! 진짜 위자드를 상대해 보시지!",
     "pbw_gameplay_response_120": "헛소리라면 다음 공격은 좀 피해봐.",
     "pbw_gameplay_heard_wood_elf_in_trouble_05": "일어나, 커릴리안!",
@@ -844,5 +844,6 @@
     "pbw_gameplay_seeing_a_troll_01": "트롤인가! 멋지게 구울 수 있겠어, 기다리기만 하라고!",
     "pbw_gameplay_killing_a_Skaven_warpfire_thrower_05": "워프파이어는 이걸로 됐군. 쥐새끼들이 배우긴 할까?",
     "pbw_chaos_war_camp_intro_b_02": "북부인 불태우기라니. 뭘 더 바라겠어?",
-    "pbw_level_bogenhafen_city_story_eight_01": "진짜 마녀였어, 솔츠파이어? 아니면 간단한 녀석들?"
+    "pbw_level_bogenhafen_city_story_eight_01": "진짜 마녀였어, 솔츠파이어? 아니면 간단한 녀석들?",
+    "pbw_jade_weave_conversation_two_01": "수풀이 엄청 많네. 불붙이면 탈까?"
 }
