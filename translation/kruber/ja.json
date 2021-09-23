@@ -22,9 +22,14 @@
     "pes_prologue_gate_opens_01": "ここから抜け出す用意はできてるのか？",
     "pes_prologue_meeting_kerillian_01": "その声はケリリアンか？お前もオリーシャに助けられたのか？",
     "pes_level_prologue_supply_02": "何かあるぞ。こりゃ助かる。",
-    "pes_level_prologue_wizard_sound_01": "近くで何かが聞こえる。ネズミどもは燃えちまった。",
-    "pes_level_prologue_skittergate_afar_01": "おお、こりゃあひでえ…何かの仕掛けか？そういやババアが何か言ってたな？",
+    "pes_level_prologue_wizard_sound_01": "近くで何かが聞こえる。ネズミどもはよく燃えてるな。",
+    "pes_level_prologue_skittergate_afar_01": "おお、こりゃあひでえ…何かの仕掛けか？そういやばあさんが何か言ってたな？",
     "pes_level_prologue_bardin_fallling_01": "うまくいったな。",
     "pes_level_prologue_bardin_passing_one_01": "早速一人見つけたようだ。",
-    "pes_prologue_meeting_kerillian_02": "シエナは？"
+    "pes_prologue_meeting_kerillian_02": "シエナは？",
+    "pes_level_prologue_elevator_ride_01": "この調子なら俺たちは無事脱出できそうだ。最後に奴らのこの仕掛けで、血まみれの崖を登りきればな…",
+    "pes_level_prologue_elevator_ride_02": "えーと、ちょっといいか？「これ」は一体何なんだ？忌々しい「スキッターゲート」、北方人とスケイヴンが一緒にて、頭の中にはオリーシャが…。",
+    "pes_level_prologue_elevator_ride_03": "〈タールの歯〉はまた元に戻るさ。",
+    "pes_level_prologue_reached_surface_01": "それよりその「ポータル」を見つけないとな。…サルツフィアも。",
+    "pes_level_prologue_seeing_crater_01": "これは…真実なのか？どうなってる…これを見ろ！タールとシグマーよ、我らを救い給え。"
 }
