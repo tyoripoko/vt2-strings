@@ -6112,5 +6112,9 @@
     "subtitle_name_player_gods": "???",
     "subtitle_name_chaos_exalted_champion": "뵈드바르 립스프레더",
     "interaction_action_equip": "장착하기",
-    "credits_omuk_london": "OMUK London"
+    "credits_omuk_london": "OMUK London",
+    "interaction_action_deus_setup_rally_flag": "비취 향로 배치하기",
+    "interaction_skull": "해골",
+    "interaction_action_turn_grindstone": "돌리기",
+    "interaction_action_place": "놓기"
 }
