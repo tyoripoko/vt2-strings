@@ -365,5 +365,10 @@
     "loading_screen_lore_33": "サイラス・ゴーマンは、輝きの秩序の長老である。彼は金属の秩序のバルタザール・ゲルトとの戦いに敗れるまで、すべての魔法の秩序の最高主席魔導士の中で筆頭に立っていた。",
     "loading_screen_lore_18": "ポーションとドラフトの違い、それはポーションを生成するには魔法が必要であるのに対し、ドラフトはありふれた製法で作ることができる点だ。",
     "level_name_bogenhafen_city": "病み刈りの剣",
-    "loading_screen_lore_02": "アセル・ロゥレンはウッドエルフの根城である。"
+    "loading_screen_lore_02": "アセル・ロゥレンはウッドエルフの根城である。",
+    "mission_military_move_along_wall": "壁に沿って進め",
+    "mission_military_open_gate": "門を通り抜けろ",
+    "mission_military_open_portcullis": "落とし格子を開け",
+    "mission_military_ring_bell": "鐘を鳴らせ",
+    "location_military_streets_04": "フランツ・エリクソンの領地"
 }
