@@ -757,7 +757,7 @@
     "pes_bastion_vo_entering_darkness_03": "다들 소름 돋지 않아?",
     "pes_fleur_conversation_six_02": "물러터져? 내가? 바보 같은 소리 하지 마.",
     "pes_activate_ability_huntsman_02": "신성한 타알 님, 저의 조준을 인도하소서.",
-    "pes_gameplay_response_171": "충분히 혹독하게 죽었다고 봅니다만.",
+    "pes_gameplay_response_171": "지금도 충분히 죽었습니다만.",
     "pes_gameplay_armoured_enemy_dwarf_ranger_06": "전혀 통하지 않잖아. 머리를 노려!",
     "pes_gameplay_hearing_a_chaos_spawn_06": "들었어? 스폰이다.",
     "pes_bastion_vo_finale_done_04": "타알 님과 라야 님이시여, 저런 허접한 놈이 다 있군, 안 그래?",
@@ -989,7 +989,7 @@
     "pes_level_helmgart_military_temple_ahead_04": "서두르자고, 친구들. 곧 도착할 거야.",
     "pes_portals_crypt_event_blood_03": "날이면 날마다 볼 수 있는 게 아니지.",
     "pes_gameplay_killing_a_Skaven_warpfire_thrower_01": "불꽃쥐가 죽었어!",
-    "pes_gameplay_hunter_downed_3_times_06": "제발 좀 계속 서있어 보시지요.",
+    "pes_gameplay_hunter_downed_3_times_06": "제발 눕지 좀 마시죠.",
     "pes_level_bogenhafen_slum_too_quiet_01": "난 조용한 게 싫어. 문제가 곧 생길 거란 뜻이지.",
     "pes_gameplay_wood_elf_grabbed_03": "갈고리쥐가 엘프를 붙잡았어!",
     "pes_level_farmlands_fence_02": "도로를 따라가는 건 말도 안 되지. 울타리를 넘자고!",
@@ -1160,5 +1160,6 @@
     "pes_level_catacombs_confinement_cells_01": "내가 이런 곳에 갇히는 데는 얼마나 걸릴까?",
     "pes_level_mine_follow_tracks_03": "철로를 따라가자고, 친구들.",
     "pes_level_mine_follow_tracks_04": "철로가 옳은 길로 향하고 있는 거 같네.",
-    "pes_level_mine_follow_tracks_01": "이 선로들을 따라가는 건 어때?"
+    "pes_level_mine_follow_tracks_01": "이 선로들을 따라가는 건 어때?",
+    "pes_gameplay_hunter_killing_rat_ogre_ranged_01": "그렇지, 고렉슨. 랫 오거한테 한 방 먹여줘!"
 }
