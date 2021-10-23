@@ -2517,5 +2517,6 @@
     "mutator_statue_01": "???",
     "rcon_server_command_args_say": "<text>",
     "rcon_server_command_args_kick": "<steam_id/name>",
-    "menu_settings_256kbit": "256kbit/s"
+    "menu_settings_256kbit": "256kbit/s",
+    "popup_choice_cancel": "취소"
 }
