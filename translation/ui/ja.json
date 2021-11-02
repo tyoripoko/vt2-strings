@@ -203,7 +203,7 @@
     "loading_screen_tip_42": "[$KEY;Player__ping :]を押せば、アイテムや敵を青く強調表示させ、仲間に知らせることもできる。",
     "career_passive_desc_es_4b": "最初に敵にヒットしたダメージが25%増加。",
     "loading_screen_tip_title": "ヒント＆真実",
-    "career_active_name_we_thornsister": "目覚める棘",
+    "career_active_name_we_thornsister": "茨の目覚め",
     "wh_bountyhunter": "バウンティハンター",
     "career_passive_desc_dr_1a": "20秒ごとに敵の攻撃1ヒットを完全に無効化。",
     "career_passive_desc_wh_1b": "近接攻撃をチャージ中、敵の攻撃によって中断されない。",
@@ -795,5 +795,16 @@
     "location_ground_zero_lower_terrace": "フォンマッケンセン通り",
     "mission_ground_zero_down_terraces": "テラスから降りる道を見つけろ",
     "achv_holly_cemetery_rune_name": "モール神の庭のルーン",
-    "achv_scorpion_complete_plaza_cataclysm_desc": "難易度：大異変で「戦いの命運」を達成。"
+    "achv_scorpion_complete_plaza_cataclysm_desc": "難易度：大異変で「戦いの命運」を達成。",
+    "kerillian_thorn_sister_big_push_desc": "スタミナが最大値の状態では、押し出しのパワーと範囲が100%増加。",
+    "kerillian_thorn_sister_attack_speed_on_full_desc": "体力が90%以上あるとき、攻撃速度が15%増加。",
+    "kerillian_thorn_sister_crit_big_bleed_desc": "敵へのクリティカルヒットに出血効果が加わる。",
+    "kerillian_power_on_health_gain_desc": "体力が回復する度に、8秒間だけパワーが5%増加。効果は3回まで積み重なる。",
+    "kerillian_double_passive_desc": "「輝光の束」の効果を2回分保持可能。",
+    "kerillian_thorn_sister_reduce_passive_on_elite_desc": "ケリリアンの付近でエリート敵が倒れるごとに、「輝光の束」のクールダウンが1秒減少。",
+    "kerillian_thorn_sister_avatar_desc": "「輝光の束」を発動すると、移動速度、攻撃速度、パワー、クリティカルパワーが10秒間だけ大幅に向上する。（「茨の目覚め」にも効果あり）",
+    "kerillian_thorn_sister_crit_on_any_ability_desc": "キャリアスキルを発動するたび、次の3回の攻撃で必ずクリティカルが出る。",
+    "kerillian_thorn_sister_tanky_wall_desc": "「茨の目覚め」の効果時間が10秒に増加。",
+    "kerillian_thorn_sister_explosive_wall_desc": "「茨の目覚め」の有効範囲が小さな円形になり効果時間が1秒に減少するが、発動時に与えるダメージが増加し、出血効果も加わる。",
+    "kerillian_thorn_sister_debuff_wall_desc": "「茨の目覚め」の効果終了時、周囲に毒のトゲを飛ばし、ヒットした敵は10秒間だけ受けるダメージが20%増加。"
 }
