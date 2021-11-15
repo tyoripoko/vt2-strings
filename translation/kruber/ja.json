@@ -2,7 +2,7 @@
     "pes_level_prologue_waking_up_01": "うう…ここは〈タールの歯〉？…。",
     "pes_level_prologue_travel_02": "う…これは夢か？",
     "pes_level_prologue_grab_weapon_01": "どうかお構いなく…",
-    "pes_level_prologue_first_payback_01": "おお、この時を待っていたぞ…",
+    "pes_level_prologue_first_payback_01": "おお、この時を待ってたぜ…",
     "pes_level_prologue_hello_kruber_01": "何だと？その声はオリーシャか？",
     "pes_level_prologue_hello_kruber_02": "構わないでくれ…しかし…",
     "pes_level_prologue_hello_kruber_03": "オリーシャ？聞いてるか？まあいい。",
@@ -137,5 +137,7 @@
     "pes_gameplay_hit_by_goo_09": "タール神よ！息が出来ない…。",
     "pes_ameplay_soldier_potions_above_half_health_01_reply_01": "薬？俺じゃないぞ。必要なものだけだ。",
     "pes_archdaemon_response_01": "うん？何が言いたい？",
-    "pes_archdaemon_response_04": "他のやつにしてくれよ。"
+    "pes_archdaemon_response_04": "他のやつにしてくれよ。",
+    "pes_gameplay_globadier_guck_10": "ガス玉が飛んできたぞ！",
+    "pes_farmlands_intro_b_01": "モルゲンスロフト農場が賞品だが、途中で目を離さなくても大丈夫だ。"
 }
