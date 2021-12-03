@@ -3920,7 +3920,7 @@
     "mission_nurgle_destroy_nurgle_clusters": "너글 오염 정화하기",
     "achv_level_thirty_dwarf_ranger_name": "사촌 오크리처럼",
     "mission_objective_prologue_ranged_normal_attack": "발사",
-    "description_dr_helmet_0001": "알드 카라키(늙은 등반자)라는 이름의 레인저 투구는 카락 아즈가라즈 방어 중 영광스럽게 죽은 바딘의 삼촌 오크룬드에게서 상속받은 것이다.\\n\\n바딘은 이것을 자랑스럽게 착용해왔으며, 물려줄만한 비어들링이 나타날 때까지 지니고 다닐 것이다.",
+    "description_dr_helmet_0001": "알드 카라키(늙은 등반자)라는 이름의 레인저 투구는 카락 아즈가라즈 방어 중 영광스럽게 죽은 바딘의 삼촌 오크룬드에게서 상속받은 것이다.\\n\\n바딘은 이것을 자랑스럽게 착용해왔으며, 물려줄 만한 비어들링이 나타날 때까지 지니고 다닐 것이다.",
     "we_sword_skin_05_runed_02_name": "나이트세일",
     "mission_crater_reach_ritual": "허드스톤에 도달하기",
     "achv_skaven_stormfiend_2_name": "뇌사",
@@ -6169,5 +6169,9 @@
     "description_skin_es_questingknight_white": "당신은 카오스 황무지 여정을 통해 마음과 몸과 영혼을 증명하였다. 세상이 당신의 영광을 보기를.",
     "description_skin_wh_captain_white": "당신은 카오스 황무지 여정을 통해 마음과 몸과 영혼을 증명하였다. 세상이 당신의 영광을 보기를.",
     "description_skin_ww_maidenguard_white": "당신은 카오스 황무지 여정을 통해 마음과 몸과 영혼을 증명하였다. 세상이 당신의 영광을 보기를.",
-    "description_skin_ww_shade_white": "당신은 카오스 황무지 여정을 통해 마음과 몸과 영혼을 증명하였다. 세상이 당신의 영광을 보기를."
+    "description_skin_ww_shade_white": "당신은 카오스 황무지 여정을 통해 마음과 몸과 영혼을 증명하였다. 세상이 당신의 영광을 보기를.",
+    "kerillian_maidenguard_damage_reduction_on_last_standing": "저항력",
+    "display_name_adept_hat_1002": "횃대 왕관",
+    "display_name_skin_bw_adept_1001": "위자드의 잡색옷",
+    "heroes_completed": "완료"
 }
