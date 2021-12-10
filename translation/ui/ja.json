@@ -75,7 +75,7 @@
     "loading_screen_khazalid_43": "カザリッド語講座 #44|「ラキザール」 = 火ねずみ、火焔兵器を使うスケイヴン。一般的にワープファイア・スローワーを指す。",
     "loading_screen_khazalid_16": "カザリッド語講座 #16|「スクルフ」 = あごひげを生やしていない人、貧相なひげを指す。相手に対する最上級の侮辱として使用される。",
     "loading_screen_khazalid_38": "カザリッド語講座 #38|「ドレンラコギ」 = ひどく騒がしい音を立てるラットオウガ。一般的にストームフィーンドを指す。",
-    "achv_bogenhafen_complete_legend_name": "自由のベーゲンハーフェン",
+    "achv_bogenhafen_complete_legend_name": "自由の街ベーゲンハーフェン",
     "loading_screen_tip_47": "どのプレイヤーも、プレイインターフェースを通じて新しいミッションへの投票を開始できる。",
     "loading_screen_tip_80": "「弾薬箱」の使用は無制限となっており、いくらでも弾薬を補充できる。",
     "loading_screen_tip_09": "[$KEY;Player__wield_switch_1 :]キーを押すと、射撃武器に切り替わる。",
@@ -2271,5 +2271,17 @@
     "achv_holly_forest_ambush_bretonnian_dance_name": "最後の治具",
     "achv_level_thirty_wood_elf_desc": "ケリリアンでレベル30に到達する",
     "achv_holly_magnus_barrel_relay_race_name": "樽あそび",
-    "achv_holly_forest_ambush_synchronized_explosives_name": "破壊主義者"
+    "achv_holly_forest_ambush_synchronized_explosives_name": "破壊主義者",
+    "achv_menu_summary_category_title": "まとめ",
+    "achv_menu_summary_overview_title": "進捗状況一覧",
+    "achv_menu_season_1_scorpion_category_title": "クエスト・シーズン1",
+    "achv_menu_season_4_scorpion_category_title": "クエスト・シーズン4",
+    "achv_menu_quests_category_title": "クエスト",
+    "achv_menu_reward_claimed_title": "アイテムを獲得可能",
+    "achv_menu_summary_quests_available": "クエストの状況",
+    "achv_menu_season_2_scorpion_category_title": "クエスト・シーズン2",
+    "achv_menu_season_3_scorpion_category_title": "クエスト・シーズン3",
+    "achv_menu_title": "オクリの挑戦",
+    "achv_menu_reward_claimed": "報酬を受け取る",
+    "achv_menu_summary_quest_refresh": "更新されたクエスト:"
 }
