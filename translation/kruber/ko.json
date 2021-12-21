@@ -1170,10 +1170,10 @@
     "pes_level_skaven_stronghold_waterwheel_move_02": "아무래도 물레방아를 똑바로 세워야할 것 같군.",
     "pes_chaos_war_camp_challenge_reply_b_01": "뭐, 믿거나 말거나 이건 내 첫번쨰 구덩이 싸움이야, 그리고 우리는 네놈을 혼쭐 내줄거다 썩은 똥자루놈아!",
     "pes_gameplay_soldier_downed_3_times_07_reply_01": "그럴지도 몰라. 큰 문제가 없다면 말이지...",
-    "pes_wv_dusk_storm_02": "또 비야? 전에도 옷말리려고 몇시간이나 걸렸는데.",
+    "pes_wv_dusk_storm_02": "또 비야? 전에도 내 옷 말리는데 몇시간이나 걸렸다고.",
     "pes_gameplay_response_167": "더러운 짐승놈. 죽기는 싫었나보지.",
     "pes_gameplay_standard_bearer_buff_active_07": "저 스탠다드를 내리지 못하면, 우리 끝은 좋지 못할거야.",
-    "pes_gameplay_seeing_a_chaos_warrior_champion_combat_07": "빌어먹을 투사로군! 누가 주의 좀 끌어봐. 나머지는, 두들겨 패 !",
+    "pes_gameplay_seeing_a_chaos_warrior_champion_combat_07": "빌어먹을 투사로군! 누가 주의좀 끌어봐. 나머지는, 두들겨 패 !",
     "pes_gameplay_response_144": "그래, 당연히봤지, 내 기분이 다 좋아지더군 !",
     "pes_gameplay_seeing_a_chaos_wizard_tentacle_03": "소서러. 내눈에는 소환사처럼 보이는걸.",
     "pes_gameplay_healing_witch_hunter_04": "이게 필요하시겠군요, 나리.",
@@ -1198,5 +1198,6 @@
     "pes_level_ussingen_story_three_03": "당신 어조가 문제야. 알아차리기 힘들다고.",
     "pes_level_ussingen_story_three_01": "우싱엔은 지나가본 지 한세월은 된 거 같은데. 거의 기억도 안 나네.",
     "pes_level_ussingen_story_three_02": "그것 참 친절한 감상이네. 아주 친절해.",
-    "pes_level_ussingen_story_three_04": "그것도 혹시 기운 내라고 하는 말이야?"
+    "pes_level_ussingen_story_three_04": "그것도 혹시 기운 내라고 하는 말이야?",
+    "pes_gameplay_ranger_killing_spawn_ranged_01": "스폰이 죽었군! 좋은 사격이였다, 바딘!"
 }
