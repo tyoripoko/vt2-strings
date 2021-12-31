@@ -2719,5 +2719,7 @@
     "host_has_no_backend_connection": "게임 호스트와 백엔드의 연결이 끊겼습니다.",
     "menu_settings_alien_fx": "AlienFX",
     "menu_settings_lock_framerate": "프레임레이트 고정",
-    "menu_settings_physic_debris": "물리적 잔해"
+    "menu_settings_physic_debris": "물리적 잔해",
+    "rcon_server_command_help_shutdown": "데디케이트 서버를 닫습니다.",
+    "rcon_meta_command_help_help": "사용 가능한 메타 명령어 목록"
 }
