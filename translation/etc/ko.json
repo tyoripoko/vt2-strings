@@ -2729,5 +2729,9 @@
     "rcon_server_command_response_shutting_down": "종료 중",
     "rcon_login_denied": "로그인 거부됨",
     "rcon_server_command_help_say": "인게임 채팅창으로 서버의 플레이어들에게 메세지를 보냅니다.",
-    "rcon_server_command_response_no_players": "플레이어 없음"
+    "rcon_server_command_response_no_players": "플레이어 없음",
+    "rcon_server_command_help_kick": "이름이나 아이디를 이용해 해당 플레이어를 서버에서 추방합니다.",
+    "tooltip_animation_lod_distance": "애니메이션 LOD 거리 �애니메이션 디테일의 양을 조절합니다. ��0 = 표정과 손가락 애니메이션 없음.�1 = 8미터 내의 모든 표정 및 손가락 애니메이션을 표시합니다.��성능 영향: �GPU: 해당없음 CPU: 적음",
+    "prologue_ls": "프롤로그",
+    "settings_view_eyetracking": "Tobii 아이 트래킹"
 }
