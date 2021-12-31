@@ -2728,5 +2728,6 @@
     "rcon_server_command_help_status": "작동 중인 서버의 현재 상황을 표시합니다.",
     "rcon_server_command_response_shutting_down": "종료 중",
     "rcon_login_denied": "로그인 거부됨",
-    "rcon_server_command_help_say": "인게임 채팅창으로 서버의 플레이어들에게 메세지를 보냅니다."
+    "rcon_server_command_help_say": "인게임 채팅창으로 서버의 플레이어들에게 메세지를 보냅니다.",
+    "rcon_server_command_response_no_players": "플레이어 없음"
 }
