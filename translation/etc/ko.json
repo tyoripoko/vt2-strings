@@ -2722,5 +2722,7 @@
     "menu_settings_physic_debris": "물리적 잔해",
     "rcon_server_command_help_shutdown": "데디케이트 서버를 닫습니다.",
     "rcon_meta_command_help_help": "사용 가능한 메타 명령어 목록.",
-    "rcon_server_command_help_banlist": "밴당한 사용자들 목록."
+    "rcon_server_command_help_banlist": "밴당한 사용자들 목록.",
+    "tooltip_lock_framerate": "프레임 고정�원하는 값의 프레임을 설정합니다.��과부하 문제를 방지하고 게임이 너무 많은 자원을 소모하는 것을 방지하는데 도움됩니다. �또한 프레임 출렁임을 없애서 부드러운 게임 환경을 제공합니다.",
+    "settings_view_header_eyetracker": "TOBII 아이 트래커"
 }
