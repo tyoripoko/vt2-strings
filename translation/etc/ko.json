@@ -2735,5 +2735,8 @@
     "prologue_ls": "프롤로그",
     "settings_view_eyetracking": "토비 아이 트래킹",
     "title_screen_store_bogenhafen_title": "뵈겐하펜에 드리운 그림자 임무 모음",
-    "partner_legal_3": "USES UMBRA. © 2018 BY UMBRA SOFTWARE LTD. WWW.UMBRASOFTWARE.COM."
+    "partner_legal_3": "USES UMBRA. © 2018 BY UMBRA SOFTWARE LTD. WWW.UMBRASOFTWARE.COM.",
+    "rcon_server_command_error_unknown_command": "미확인 명령어",
+    "tutorial_intro_fatshark_games": "팻샤크",
+    "title_screen_store_premium_edition_title": "프리미엄 에디션 컨텐츠"
 }
