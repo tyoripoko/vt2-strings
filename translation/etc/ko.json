@@ -2733,5 +2733,7 @@
     "rcon_server_command_help_kick": "이름이나 아이디를 이용해 해당 플레이어를 서버에서 추방합니다.",
     "tooltip_animation_lod_distance": "애니메이션 LOD 거리 �애니메이션 디테일의 양을 조절합니다. ��0 = 표정과 손가락 애니메이션 없음.�1 = 8미터 내의 모든 표정 및 손가락 애니메이션을 표시합니다.��성능 영향: �GPU: 해당없음 CPU: 적음",
     "prologue_ls": "프롤로그",
-    "settings_view_eyetracking": "토비 아이 트래킹"
+    "settings_view_eyetracking": "토비 아이 트래킹",
+    "title_screen_store_bogenhafen_title": "Shadows over Bögenhafen 미션 팩",
+    "partner_legal_3": "USES UMBRA. © 2018 BY UMBRA SOFTWARE LTD. WWW.UMBRASOFTWARE.COM."
 }
