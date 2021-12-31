@@ -83,7 +83,7 @@
     "news_feed_store_title": "로너에게서 일일 보상을 수령하기",
     "nik_hub_greeting_evening_03": "해가 지는구먼, 옛 생각이 나는군.",
     "victor_priest_2_1": "막을 수 없는 힘",
-    "victor_priest_2_1_desc": "한 번에 %d명의 적을 타격할 시 %d초 동안 밀치기의 스태미나 소모가 50% 감소합니다.",
+    "victor_priest_2_1_desc": "한 번에 %d명의 적을 타격할 시 %d초 동안 밀치기의 스태미나 소모가 절반 감소합니다.",
     "victor_priest_2_3_desc": "정예병 처치 시 치명타 확률이 %.f%% 상승하며 %d초간 지속됩니다. 최대 %d회 중첩됩니다.",
     "victor_priest_4_2_desc": "정의의 분노의 강타가 %d초 후 발동되며, 경직 힘이 상승하고 추가 피해가 %.f%%로 상승합니다.",
     "victor_priest_5_2": "권능의 기도",
