@@ -81,5 +81,15 @@
     "achv_grudge_mark_kills_grind_es_questingknight_desc": "성배 기사로 원한 표식이 박힌 괴물을 5마리 처치하기",
     "achv_grudge_mark_kills_grind_we_thornsister_desc": "가시의 자매단으로 원한 표식이 박힌 괴물을 5마리 처치하기",
     "achv_grudge_mark_kills_grind_wh_bountyhunter_desc": "현상금 사냥꾼으로 원한 표식이 박힌 괴물을 5마리 처치하기",
-    "achv_grudge_mark_kills_grind_wh_priest_desc": "지그마의 워리어 프리스트로 원한 표식이 박힌 괴물을 5마리 처치하기"
+    "achv_grudge_mark_kills_grind_wh_priest_desc": "지그마의 워리어 프리스트로 원한 표식이 박힌 괴물을 5마리 처치하기",
+    "achv_kill_each_monster_grudge_bw_adept_desc": "배틀 위자드로 해당 원한 표식이 박힌 괴물들을 처치하기",
+    "achv_kill_each_monster_grudge_bw_adept_name": "살인동물원 (배틀 위자드)",
+    "achv_kill_each_monster_grudge_bw_scholar_desc": "파이로맨서로 해당 원한 표식이 박힌 괴물들을 처치하기",
+    "achv_kill_each_monster_grudge_bw_scholar_name": "살인동물원 (파이로맨서)",
+    "achv_kill_each_monster_grudge_bw_unchained_desc": "언체인드로 해당 원한 표식이 박힌 괴물들을 처치하기",
+    "achv_kill_each_monster_grudge_bw_unchained_name": "살인동물원 (언체인드)",
+    "achv_kill_each_monster_grudge_dr_engineer_desc": "외톨이 엔지니어로 해당 원한 표식이 박힌 괴물들을 처치하기",
+    "achv_kill_each_monster_grudge_dr_engineer_name": "살인동물원 (외톨이 엔지니어)",
+    "achv_kill_each_monster_grudge_dr_ironbreaker_desc": "아이언브레이커로 해당 원한 표식이 박힌 괴물들을 처치하기",
+    "achv_kill_each_monster_grudge_dr_ironbreaker_name": "살인동물원 (아이언브레이커)"
 }
