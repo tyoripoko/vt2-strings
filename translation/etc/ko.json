@@ -1219,7 +1219,7 @@
     "startup_settings_dynamic_range_header": "다이내믹 레인지",
     "skin_dr_slayer_description": "많은 슬레이어들은 천 한 오라기도 걸치지 않은 채로 전투에 임하고는 한다, 바딘의 동료들은 이 악취나는 바지에 감사해야 할 것이다.",
     "splash_seizure_disclaimer_header": "경고: 플레이 전 정독 바랍니다",
-    "tutorial_tooltip_core_revive": "소생시키십시오!",
+    "tutorial_tooltip_core_revive": "소생시키기!",
     "keep_trophy_nurgloth_description": "카오스 차원 깊은 곳의 뼈의 제단에서 벼려낸 영생자 너글로스의 갑옷과 낫이라네. 올레샤가 말하길 쌍둥이 악마의 정수가 타락한 쇳덩이를 타고 고동친다는군, 그러니 만지지 않는 편이 좋을 게야, 알아들었나?",
     "menu_store_product_wieldable_tooltip_desc": "해당 커리어로 이용 가능",
     "skin_ww_maidenguard": "핸드메이든",
@@ -2775,5 +2775,6 @@
     "name_grudge_troll_008": "피딱지혀 크롭",
     "name_grudge_troll_013": "생각하는 자 그라인",
     "name_grudge_troll_014": "환자 로클롭",
-    "name_grudge_troll_017": "썩은 숨결 우그럽"
+    "name_grudge_troll_017": "썩은 숨결 우그럽",
+    "no_ammo_for_this_weapon": "현재 무기에 맞는 탄약이 없음"
 }
