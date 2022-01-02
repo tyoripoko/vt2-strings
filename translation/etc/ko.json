@@ -2776,5 +2776,7 @@
     "name_grudge_troll_013": "생각하는 자 그라인",
     "name_grudge_troll_014": "환자 로클롭",
     "name_grudge_troll_017": "썩은 숨결 우그럽",
-    "no_ammo_for_this_weapon": "현재 무기에 맞는 탄약이 없음"
+    "no_ammo_for_this_weapon": "현재 무기에 맞는 탄약이 없음",
+    "pup_weapon_tutorial_melee": "망치",
+    "pup_weapon_tutorial_ranged": "활"
 }
