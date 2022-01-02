@@ -1163,7 +1163,7 @@
     "pes_level_mine_follow_tracks_01": "이 선로들을 따라가는 건 어때?",
     "pes_gameplay_hunter_killing_rat_ogre_ranged_01": "그렇지, 고렉슨. 랫 오거한테 한 방 먹여줘!",
     "pes_level_helmgart_military_armoury_01": "그래도 가져갈만한 것들이 좀 있네.",
-    "pes_wv_midnight_fog_01": "안개 속에 군대가 숨어있을 수도 있겠어... 우리가 자만할 때 까지 기다리겠지",
+    "pes_wv_midnight_fog_01": "안개 속에 군대가 숨어있을 수도 있겠어... 우리가 자만할 때 까지 기다리겠지.",
     "pes_level_helmgart_military_prepare_04": "준비됐나, 친구들?",
     "pes_objective_correct_path_stairs_up_05": "이봐! 내가 계단을 찾았어.",
     "pes_gk_gameplay_seeing_a_plague_monk_03": "준비됬나 친구들? 앞에 플레이그 몽크다!",
@@ -1224,5 +1224,9 @@
     "pes_wv_dusk_snow_01": "눈? 상관없지. 좀 죽이다 보면 금방 따뜻해질 테니까.",
     "pes_gameplay_ranger_3_special_kills_in_a_row_01_reply_01": "인생은 어딜 가나 힘들어, 바딘.",
     "pes_gameplay_hearing_a_gutter_runner_12": "저쪽에 뭐가 있어...",
-    "pes_skaven_stronghold_intro_c_02": ""
+    "pes_skaven_stronghold_intro_c_02": "",
+    "pes_witch_hunter_eaten_05": "예전에 내가 말했었지... 대체 어떤 제정신인 놈들이 촉수들을 좋아하냐고? 그리고 저놈들은... 우릴 잡아먹고 있잖아!",
+    "pes_level_bogenhafen_city_braziers_03": "화염을 좀 퍼뜨려 보자고. 어떤 광경이 벌어질까.",
+    "pes_level_bogenhafen_city_noisy_04": "잘 들어. 타알 신 께선 저것들이 뭘 축하하는지 알고 계시지. 창 밖을 좀 보기라도 했으면 좋겠는데.",
+    "pes_level_fort_fire_cannon_second_02": "봤지? 대포를 좀 더 작동시켜야겠어. 좀 귀찮겠지만. 내가 생각해도 그렇고."
 }
