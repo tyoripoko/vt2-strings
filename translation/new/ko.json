@@ -171,7 +171,7 @@
     "search_filter_reward": "보상",
     "search_filter_locked": "잠김",
     "search_filter_completed": "완료함",
-    "search_filter_rarity": "희귀도",
+    "search_filter_rarity": "등급",
     "imperial_day_1": "벨렌탁",
     "imperial_day_2": "아우벤탁",
     "imperial_day_3": "마르크탁",
@@ -179,5 +179,6 @@
     "imperial_day_5": "베찰탁",
     "imperial_day_6": "코니스탁",
     "imperial_day_8": "페스탁",
-    "imperial_day_7": "앙게스탁"
+    "imperial_day_7": "앙게스탁",
+    "search_filter_claimed": "보상 받음"
 }
