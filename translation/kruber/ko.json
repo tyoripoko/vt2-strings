@@ -428,7 +428,7 @@
     "pes_level_catacombs_story_eight_01": "그녀는 치유의 수호신이야, 바딘. 세상에 어떤 치유사가 대갈통을 날리는데?",
     "pes_level_prologue_block_02": "타알이시여, 수련도 열심히 했는데 방어하는 법을 까먹다니?",
     "pes_gameplay_bright_wizard_low_on_health_07": "그리 좋아보이진 않는데, 시에나.",
-    "pes_bastion_vo_possessed_01": "타알이시여! 저것들이 빙의당했어!",
+    "pes_bastion_vo_possessed_01": "타알이시여! 저것들은 홀려있어!",
     "pes_gameplay_seeing_a_gutter_runner_03": "거터 러너!",
     "pes_whisper_conversation_twelve_03": "찬성!",
     "pes_crater_ambush_done_01": "비스트맨? 망할 비스트맨이라니? 이놈들 볼 일은 앞으로 없을 줄 알았는데.",
@@ -1411,5 +1411,7 @@
     "pes_crawl_end_event_waystone_02": "갈 시간이지만, 재미있었어. 다음에도 또 해보자고, 친구들. ",
     "pes_crawl_drunk_buff_begins_04": "흑맥주처럼 독하군! 좋았어!",
     "pes_crater_wasteland_tree_push_02": "저 나무를 쓰러뜨리면, 건널 수 있을 거야.",
-    "pes_crater_wasteland_tree_push_04": "저 나무는 어때, 친구들?"
+    "pes_crater_wasteland_tree_push_04": "저 나무는 어때, 친구들?",
+    "pes_crater_forest_ascent_top_01": "계속 움직이자고! 이산을 넘으면 답이 나올꺼야.",
+    "pes_crater_devastation_03": "타알이시여, 여긴 정말 끔찍하군.이런 일을 대비 할 순 없었을꺼야, 그렇지?"
 }
