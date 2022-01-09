@@ -38,7 +38,7 @@
     "pes_gameplay_hearing_a_stormfiend_05": "스톰핀드가 다가오고 있어, 친구들.",
     "pes_chaos_war_camp_intro_a_01": "북부인 야영지로 들어가 놈들 투사를 죽인다니. 로너는 무슨 아침밥 먹는 듯이 쉽게 말하는군.",
     "pes_gameplay_activating_magic_weapon_offensive_03": "야생의 신을 위하여!",
-    "pes_bastion_conversation_one_01": "전부 엄청 오래된 것 같아. 아마 위대한 마법사 시절부터 있었을 것 같은데.",
+    "pes_bastion_conversation_one_01": "전부 엄청 오래된 것 같아. 아마 대 요술사 시절부터 있었을 것 같은데.",
     "pes_cog_trailer_01": "준비됐어? 이제 출발할 거야!",
     "pes_bell_intro_c_01": "훈련대로만 하자고, 친구들. 뭉치면 이긴다, 놈들은 죽고.",
     "pes_activate_ability_mercenary_10": "지옥으로 보내주자! 잘게 썰어버리자고!",
@@ -909,7 +909,7 @@
     "pes_level_helmgart_military_courtyard_event_03": "대열 좁혀! 한바탕 싸우게 될 테니까!",
     "pes_crawl_heard_us_03": "버건히 굳텨, 친구들! 아니 이게 아니라 굳건히 버텨! 굳건히 버티라고!",
     "pes_level_elven_ruins_skaven_banners_02": "스케이븐이 여길 자기네들 집으로 삼은 모양인데.",
-    "pes_level_chaos_war_camp_dead_champion_03": "이걸로 뒤진 투사가 하나 늘었고, 우린 살아남아 저놈 시체에 침을 뱉어줄 수 있어, 친구들! 그럴 시간은 별로 없지만.",
+    "pes_level_chaos_war_camp_dead_champion_03": "이걸로 죽은 투사놈이 하나 늘었고, 우린 살아남아 저놈 시체에 침을 뱉어줄 수 있어, 친구들! 그럴 시간은 별로 없어 보이지만.",
     "pes_gameplay_seeing_a_stormvermin_12": "여기! 스톰버민이다!",
     "pes_gameplay_soldier_downed_3_times_reply_01": "파- 뭐요? 그냥 좀 도와주십쇼!",
     "pes_gameplay_hunter_kills_3_specials_in_a_row_02_reply_01": "이미 동참했습니다, 나리, 나리만큼 빠른 게 아닐 뿐이죠!",
@@ -996,7 +996,7 @@
     "pes_gameplay_chaos_wizard_leech_leeching_keriliian_07": "리치가 커릴리안을 잡았어. 저걸 죽이기 전 까진 막말을 잠깐 멈추겠네.",
     "pes_level_elven_ruins_exit_01": "저기 다리가 있다. 아랫쪽 길로.",
     "pes_level_bogenhafen_slum_fortify_02": "방 안으로 들어가! 거기서 막아야 해!",
-    "pes_targeted_by_ratling_16": "저 래틀링이 내가 죽길 바라는군!",
+    "pes_targeted_by_ratling_16": "저 래틀링이 내가 죽길 원하는거 같은대!",
     "pes_gameplay_special_enemy_kill_ranged_13": "사격 실력이 참 좋네.",
     "pes_gameplay_bright_wizard_being_helped_up_07": "한판 더 할 힘은 남아있지, 위자드?",
     "pes_gameplay_heard_wood_elf_in_trouble_02": "걱정 마, 웨이와쳐!",
@@ -1225,7 +1225,7 @@
     "pes_gameplay_ranger_3_special_kills_in_a_row_01_reply_01": "인생은 어딜 가나 힘들어, 바딘.",
     "pes_gameplay_hearing_a_gutter_runner_12": "저쪽에 뭐가 있어...",
     "pes_skaven_stronghold_intro_c_02": "",
-    "pes_witch_hunter_eaten_05": "예전에 내가 말했었지... 대체 어떤 제정신인 놈들이 촉수들을 좋아하냐고? 그리고 저놈들은... 우릴 잡아먹고 있잖아!",
+    "pes_witch_hunter_eaten_05": "예전에 내가 말했었지... 대체 어떤 제정신인 놈들이 촉수들을 좋아하냐고? 그리고 저놈은... 우릴 잡아먹으려 하잖아!",
     "pes_level_bogenhafen_city_braziers_03": "화염을 좀 퍼뜨려 보자고. 어떤 광경이 벌어질까.",
     "pes_level_bogenhafen_city_noisy_04": "잘 들어. 타알 신 께선 저것들이 뭘 축하하는지 알고 계시지. 창 밖을 좀 보기라도 했으면 좋겠는데.",
     "pes_level_fort_fire_cannon_second_02": "봤지? 대포를 좀 더 작동시켜야겠어. 좀 귀찮겠지만. 내가 생각해도 그렇고.",
@@ -1555,5 +1555,6 @@
     "pes_gameplay_casual_quotes_33": "제국 치곤 상태가 좋아 보이진 않네. 안 그래?",
     "pes_curse_06": "이런 개자식을 봤나!",
     "pes_gameplay_dead_body_06": "울지 마. 그런다고 돌아오진 않으니.",
-    "pes_gameplay_dwarf_ranger_grabbed_01": "저거 봐, 레인저가 붙잡혔어!"
+    "pes_gameplay_dwarf_ranger_grabbed_01": "저거 봐, 레인저가 붙잡혔어!",
+    "pes_targeted_by_ratling_15": "거너가 날 쏘고 있어! 도와줘!"
 }
