@@ -459,7 +459,7 @@
     "pwh_wp_casting_bark_27": "혜성과 폭풍!",
     "pwh_wp_casting_bark_25": "지그마 님 당신을 위하여!",
     "pwh_wp_casting_bark_21": "나는 자격 있는 자로다!",
-    "menu_settings_fsr_quality": "퀄리티 모드",
+    "menu_settings_fsr_quality": "품질 모드",
     "painting_The_Empire_at_War_Page_096_artist": "미상",
     "painting_end_times_thanquol_narrative_Page_205_artist": "미상",
     "painting_legend_of_sigmar_cover_name": "지그마의 대승",
@@ -477,9 +477,9 @@
     "painting_legend_of_sigmar_cover_description": "아! 지그마 헬든해머, 제국의 건립자이시자, 그린스킨과 기타 여러 적의 학살자. 바딘의 상상보다는 훨씬 나은 수염을 가지고 계시지 않나?",
     "painting_end_times_thanquol_narrative_Page_205_description": "팔텐? 모르의 이름이여, 팔텐이 누구야? 지그마 님을 닮은 듯도 한데, 좀 다르군. 카오스 황무지에서 회수한 작품이니, 누가 언제 그렸는지 알 도리도 없고.",
     "painting_empire_page_059_description": "어떤 데몬이 폴크마 영감님을 깃대에 매단 적이 있다고 들었는데, 그런 일을 당해놓고도 잘만 진격하시는 군.",
-    "menu_settings_performance": "퍼포먼스",
-    "menu_settings_ultra_quality": "울트라 퀄리티",
+    "menu_settings_performance": "성능",
+    "menu_settings_ultra_quality": "최고 품질",
     "menu_settings_balanced": "균형",
-    "menu_settings_quality": "성능",
+    "menu_settings_quality": "품질",
     "menu_settings_fsr_enabled": "AMD FSR 1.0 적용"
 }
