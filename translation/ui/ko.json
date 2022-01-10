@@ -5431,7 +5431,7 @@
     "wh_fencing_sword_skin_01_runed_01_description": "이름은 이렇지만, 이 레이피어의 진가는 진실을 낚아채는 것이 아닌, 우물쭈물하는 증인에게서 짜내는 것에 있다.",
     "we_2h_axe_skin_07_runed_01_description": "로슬란은 아스라이 중에서도 가장 용감했던 이로, 그의 도끼는 축복받은 숲을 빼앗으려는 이들에게 내리는 파멸과도 같았다.",
     "we_shortbow_skin_05_description": "바람은 위브의 목소리이기에, 아스라이는 바람 속에서 소식을 찾는다. 그러나 바람의 혀는 아주 날카로운데, 이를 시위에 묶는다면 그 치명성은 가히 가늠할 수 없을 것이다.",
-    "description_deus_cooldown_reg_not_hit": "%d초간 피격 입지 않을 때마다 커리어 스킬을 %d%% 재생합니다. 최대 %d회 중첩됩니다.",
+    "description_deus_cooldown_reg_not_hit": "%d초간 피해를 입지 않을 때마다 커리어 스킬 재생 속도가 %d%% 증가합니다. 최대 %d회 중첩됩니다.",
     "career_passive_desc_bw_1a_2": "치명타 확률이 과열 수치에 비례해 최대 30%까지 증가합니다.",
     "description_skin_dr_irondrake": "보금자리를 지킬 준비가 된 다위 아이언브레이커의 도금 갑옷.",
     "bw_deus_01_magic_description": "위브의 정수가 스며든 무기.",
