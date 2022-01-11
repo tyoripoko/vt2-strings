@@ -7,7 +7,7 @@
     "pbw_activate_ability_battle_wizard_10": "人肌のぬくもりって素敵だねぇ？",
     "pbw_activate_ability_unchained_10": "逃げないとね、ダーリン！",
     "pbw_portals_portal_interact_two_01": "もしもし？何だって？",
-    "pbw_activate_ability_unchained_04": "怒ったわ！怒ったわよ！",
+    "pbw_activate_ability_unchained_04": "クソッ！クソッ！",
     "pbw_bastion_conversation_eleven_01": "最近オリーシャ、ちょっと疲れてない？",
     "pbw_activate_ability_unchained_08": "さらけ出すんだよ！",
     "pbw_archdaemon_response_01": "聞こえないよ。",
@@ -58,5 +58,15 @@
     "pbw_amethyst_weave_conversation_two_01": "すべては灰になる。それがことわりってもんさ。",
     "pbw_level_elven_ruins_task_complete_02": "八人の動きが止まった。うまくいったようだね。",
     "pbw_wv_midnight_clear_01": "",
-    "pbw_wv_midnight_clear_02": ""
+    "pbw_wv_midnight_clear_02": "",
+    "pbw_level_elven_ruins_story_twelve_02": "目をちゃんと開くんだよ、マーカス。アタシらより前に、大勢がこの森を歩いたんだ。そしてこれからもね。",
+    "pbw_gameplay_killing_a_Skaven_warpfire_thrower_06": "ネズミはよく燃えるわ。炎も気前がいいわね。",
+    "pbw_objective_correct_path_down_02": "ほら、ここだよ！",
+    "pbw_level_elven_ruins_ravine_approach_02": "気をつけなダーリン。岩の間から来るよ。",
+    "pbw_gameplay_spots_potion_15": "薬剤師の手によるブツだね。",
+    "pbw_gameplay_hearing_a_Skaven_warpfire_thrower_combat_01": "火ネズミちゃんだよ！",
+    "pbw_level_elven_ruins_great_glade_01": "この木を見て！なんて極太なの。",
+    "pbw_level_elven_ruins_story_twelve_03": "後にはいつも何かが残る。それが来る頃にゃアタシらは死んでるけどね…命は続いてくさ。",
+    "pbw_gameplay_seeing_a_chaos_wizard_wind_01": "病魔の強襲者さん！その腐った骨と肉を茹でてやるよ！",
+    "pbw_gameplay_tips_wizard_wind_04": "妖術師はくたばり、風はやんだ！おしまい！"
 }
