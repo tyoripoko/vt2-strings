@@ -1,1 +1,13 @@
-{}
+{
+    "career_active_desc_wh_priest": "自身または仲間1人を5秒間だけ無敵状態にする。(仲間を指定する場合は長押し)この効果が切れる際、爆発して周囲の敵をノックバックさせ炎上ダメージを与える。",
+    "career_passive_desc_wh_priest": "近くで敵が死ぬたびに怒りが蓄積し、最大まで溜まった時、一定時間「正義の憤怒」状態となる。この間、敵への攻撃に20%の追加ダメージが加わる。",
+    "career_active_name_wh_priest": "信仰の盾",
+    "career_passive_desc_wh_priest_a": "渾沌の戦士またはビーストマンの旗持ちに対してのみ、パワーが30%増加。",
+    "career_passive_desc_wh_priest_b": "呪い抵抗が100%増加。",
+    "career_passive_desc_wh_priest_c": "一度に受けるダメージが軽減し、3秒ごとに分割ダメージを受けるようになる。合計でダメージが20%減少。分割ダメージによりサルツファーが倒れることはない。",
+    "career_passive_name_wh_priest": "正義の憤怒",
+    "career_passive_name_wh_priest_a": "渾沌の敵",
+    "career_passive_name_wh_priest_b": "不腐なる者",
+    "career_passive_name_wh_priest_c": "無慈悲",
+    "credits_warrior_priest_of_sigmar": "ウォーリア・プリースト"
+}
