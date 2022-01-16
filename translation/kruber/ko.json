@@ -1638,7 +1638,7 @@
     "pes_gameplay_healing_bright_wizard_05": "그 상처는 내가 해결할게, 시에나.",
     "pes_gameplay_encouraging_words_12": "다들 모여! 저 개자식들 보고 덤비라고 해!",
     "pes_gameplay_encouraging_words_11": "넌 내 친구들이야. 너희들을 버리고 가진 않을거야.",
-    "pes_gameplay_dwarf_ranger_low_on_health_07": "치료해, 드워프. 아무도 안 속아.",
+    "pes_gameplay_dwarf_ranger_low_on_health_07": "치료해, 드워프. 멀쩡한 척 해도 안 속아.",
     "pes_gameplay_dwarf_ranger_on_a_frenzy_06": "더 죽여, 고렉슨! 하하! 더 죽여!",
     "pes_gameplay_healing_witch_hunter_01": "저기, 치료가 필요하십니다!",
     "pes_gameplay_encouraging_words_14": "있지, 모든 걸 다 따져봐도, 우린 그렇게 나쁘진 않은 조합이야.",
@@ -2245,7 +2245,7 @@
     "pes_gameplay_standard_bearer_buff_deactivated_06": "저 스탠다드는 처리됐어!",
     "pes_level_bogenhafen_slum_noble_food_02": "저건 슈타인해거 문장이잖아. 훔친 식량이로군. 우리 문제는 여기서 시작된게 아니었어.",
     "pes_level_skittergate_activate_gate_01a": "무사히 무착했군. 이제 저 키스태프를 사용하게 가져다 놔!",
-    "pes_gameplay_seeing_a_Skaven_warpfire_thrower_07": "으어, 저건 빌어 처먹을 워프파이어 쓰로워잖아!",
+    "pes_gameplay_seeing_a_Skaven_warpfire_thrower_07": "으아, 워프파이어 쓰로워잖아! 뭣같네.",
     "pes_objective_goal_achieved_more_left_09": "그래, 닦달하지 말고 어서 끝내.",
     "pes_gameplay_ranger_killing_rat_ogre_ranged_01": "멋진 일격이었습니다! 나리!",
     "pes_level_skaven_stronghold_downtown_02": "우버스라이크의 빈민들에 대한 농담은 듣기 싫어, 알겠어?",
@@ -2323,5 +2323,14 @@
     "pes_gameplay_hearing_a_gutter_runner_11": "이 소리는 기습자 같은데!",
     "pes_gameplay_special_enemy_kill_melee_12": "자만하지 마. 아직 끝나지 않았어.",
     "pes_gameplay_special_enemy_kill_melee_17": "나쁘지 않은데! 연습을 조금 더하면, 우리가 널 진짜 군인으로 만들겠어!",
-    "pes_level_bogenhafen_slum_search_03": "좋아. 시간 다 됐어. 하던 걸로 돌아가자고."
+    "pes_level_bogenhafen_slum_search_03": "좋아. 시간 다 됐어. 하던 걸로 돌아가자고.",
+    "pes_level_farmlands_kill_the_brute_02": "희생자들이 돌아오진 않겠지만, 라날드께서 좀 더 기뻐하시겠지!",
+    "pes_level_mine_darkness_04": "모여. 어둠 속에선 쉽게 위험해진다고!",
+    "pes_level_bell_horde_01": "저게 울릴 때마다 놈들이 미쳐 날뛰는군.",
+    "pes_level_farmlands_through_the_barn_02": "헛간을 지나 앞으로. 모르겐스로프트가 멀지 않아.",
+    "pes_level_skittergate_rasknitt_stormfiend_dead_01": "본 것중에 가장 큰 스톰핀드가 죽었다!",
+    "pes_objective_forest_ambush_spotting_watch_tower_04": "탑의 잔해로, 우리가 간다!",
+    "pes_gameplay_killing_a_minotaur_06": "타알과 라야시여, 아슬아슬했어.",
+    "pes_objective_cemetery_bringing_down_third_attachment_01": "세번째 완료.",
+    "pes_gameplay_hearing_a_Skaven_rat_ogre_combat_11": "랫 오거 때문에 골치가 아프다니까."
 }
