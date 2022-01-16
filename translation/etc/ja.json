@@ -258,5 +258,6 @@
     "menu_weave_forge_tooltip_choose_weapon_title": "武器の選択",
     "pup_weapon_tutorial_melee": "ハンマー",
     "start_game_view_title": "プレイ",
-    "area_selection_bogenhafen_description": "ベーゲンハーフェンが次々と腐敗に飲み込まれちまう。あ～あ、こんなとき近くに勇敢な英雄たちでもいればなあ…"
+    "area_selection_bogenhafen_description": "ベーゲンハーフェンが次々と腐敗に飲み込まれちまう。あ～あ、こんなとき近くに勇敢な英雄たちでもいればなあ…",
+    "pup_weapon_tutorial_ranged": "弓"
 }
