@@ -659,7 +659,7 @@
     "pes_activate_ability_knight_05": "돌파한다!",
     "pes_gameplay_hearing_a_stormfiend_06": "친구들, 저 스톰핀드 소리 들었어?",
     "pes_gameplay_hearing_a_globadier_06": "투척쥐인가?",
-    "pes_gameplay_hearing_a_plague_monk_combat_02": "역병쥐다!",
+    "pes_gameplay_hearing_a_plague_monk_combat_02": "역병 쥐다!",
     "pes_castle_vo_blood_pool_02": "장식 취향 한 번 특이하구만, 안 그래?",
     "pes_level_prologue_freeing_bardin_01": "알았어. 자.",
     "pes_archdaemon_response_overheard_03": "잘 못들었는데.",
@@ -2465,5 +2465,8 @@
     "pes_gameplay_hearing_a_plague_monk_06": "소리가 들려, 플레이그 버민이야.",
     "pes_objective_forest_ambush_spotting_coaching_inn_04": "저 여관으로.",
     "pes_targeted_by_ratling_11": "래틀링이 날 겨누고 있다!",
-    "pes_level_bogenhafen_city_taking_too_long_04": "이봐! 지금보다 좀 더 빨리 이동해야겠어. 내가 진군가 같은 걸 부르게 만들지 말라고. 언젠간 하고 싶긴 하지만."
+    "pes_level_bogenhafen_city_taking_too_long_04": "이봐! 지금보다 좀 더 빨리 이동해야겠어. 내가 진군가 같은 걸 부르게 만들지 말라고. 언젠간 하고 싶긴 하지만.",
+    "pes_gameplay_hearing_a_plague_monk_07": "또 거품문 망할 플레이그 몽크로군.",
+    "pes_gameplay_hearing_a_plague_monk_05": "플레이그 몽크다.",
+    "pes_gameplay_hearing_a_plague_monk_08": "들어봐, 플레이그 몽크야..."
 }
