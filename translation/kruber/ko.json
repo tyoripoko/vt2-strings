@@ -935,7 +935,7 @@
     "pes_gameplay_soldier_potions_above_half_health_01_reply_01": "그래, 그래, 잘 알아들었어.",
     "pes_level_nurgle_drop_down_01": "밑으로 내려가는 거 같네.",
     "pes_gameplay_killing_packmaster_01": "교살쥐가 죽었다!",
-    "pes_gameplay_spots_potion_09": "저거 독 아니야?",
+    "pes_gameplay_spots_potion_09": "저거 물약 아니야?",
     "pes_gameplay_killing_a_chaos_wizard_wind_04": "소서러도 죽고, 그 자식의 망할 소용돌이도 사라졌어!",
     "pes_portals_objective_recap_04": "드라켄펠스에 도착했을 때 저 지도가 말이 됐으면 좋겠네. 아니면 우린 망한 거야.",
     "pes_gameplay_seeing_a_stormvermin_04": "망할 검은쥐!",
@@ -948,7 +948,7 @@
     "pes_gameplay_seeing_a_globadier_03": "조심해! 글로바디어다!",
     "pes_gameplay_chaos_wizard_leech_leeching_sienna_04": "소서러가 시에나를 붙잡았어, 친구들! 친구의 힘을 보여주자고!",
     "pes_level_chaos_war_camp_dead_champion_04": "우싱엔의 피의 복수를 조금이라도 해줬군.",
-    "pes_gameplay_spots_potion_16": "독이다! 내 위치로!",
+    "pes_gameplay_spots_potion_16": "물약이다! 이쪽으로!",
     "pes_portals_waystone_03": "푹 쉬고, 다시 돌아와서, 엉덩이를 걷어차주자고.",
     "pes_gameplay_killing_lootrat_06": "좋아! 자루 쥐가 죽었어!",
     "pes_level_skittergate_BOOM_01": "그게 마지막이었군!",
@@ -2605,5 +2605,7 @@
     "pes_gameplay_knocked_down_09": "어이! 나한테서 떨어져 이 더러운 자식들아!",
     "pes_level_mine_mine_cart_04": "이제 저 수레는 아주 특이하게 사용될 것 같군...",
     "pes_level_mine_mine_cart_roll_down_back_01": "수레가 다시 내려간다!",
-    "pes_level_skittergate_run_for_the_gate_03": "끝났다! 게이트로 어서! 올레샤가 그 이상야릇한 알도라표 술 잔 털어먹는 속도로 움직이자고!"
+    "pes_level_skittergate_run_for_the_gate_03": "끝났다! 게이트로 어서! 올레샤가 그 이상야릇한 알도라표 술 잔 털어먹는 속도로 움직이자고!",
+    "pes_objective_forest_ambush_crescendo_starting_04": "우리가 꼭 버텨내야 할 거야!",
+    "pes_level_bogenhafen_slum_gang_02": "블랙 훅은 우버스라이크에 조직이 있었지. 쥐인간들이 없애버린 것 같지만."
 }
