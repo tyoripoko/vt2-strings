@@ -2782,7 +2782,7 @@
     "pes_level_nurgle_nurglification_01": "저것 좀 봐. 역겨운 것들 투성이야.",
     "pes_level_catacombs_spot_ritual_04": "저놈들이 저...저...저게 뭐든지 간에 끝내게 둘 수 없어.",
     "pes_level_elven_ruins_untouched_04": "우리가 일찍 문명의 품으로 돌아갈수록 더 좋지.",
-    "pes_last_hero_standing_06": "상황이 안 좋아 보이는데 그래도 최소한 누가 불평하지는 없겠네.",
+    "pes_last_hero_standing_06": "상황이 안 좋아 보이는데, 그래도 최소한 불평은 더 없겠네.",
     "pes_gameplay_wizard_downed_3_times_05": "너 오늘 여기저기 뛰어다니는 스퀴그 기수 같았어, 시에나.",
     "pes_level_mine_darkness_02": "이봐, 누가 불을 껐어?",
     "pes_gameplay_spots_potion_01": "물약이다!",
@@ -2828,5 +2828,8 @@
     "pes_gameplay_seeing_a_minotaur_02": "미노타우로스라고? 저거만큼은 보기 싫었는데.",
     "pes_gameplay_seeing_a_minotaur_03": "미노타우로스? 진심이야?",
     "pes_level_helmgart_military_spooky_temple_01": "이게 뭔...?",
-    "pes_objective_cemetery_spotting_skaven_tunnels_01": "버민 놈들이 땅굴 하나는 잘 파는군. 그건 인정하지."
+    "pes_objective_cemetery_spotting_skaven_tunnels_01": "버민 놈들이 땅굴 하나는 잘 파는군. 그건 인정하지.",
+    "pes_level_farmlands_portal_02": "포탈로 들어가! 하지만 난 우싱엔을 위해 돌아올거야, 네가 싫다해도 말이야.",
+    "pes_gameplay_witch_hunter_grabbed_05": "타알의 숨결있으라! 위치헌터!",
+    "pes_gameplay_taking_heavy_damage_13": "좋아. 와 보라고."
 }
