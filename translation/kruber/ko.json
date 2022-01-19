@@ -2882,7 +2882,7 @@
     "pes_wind_death_intro_banter_b_02": "이곳은 별로 마음에 안 드는군...",
     "pes_level_helmgart_military_portcullis_01": "이런 관문은 예전에도 본 적이 있어. 도르래를 사용해.",
     "pes_objective_cemetery_through_crypt_a_04": "들어갈 길을 찾아야 한다면, 아마 여기를 지나야 할 거야.",
-    "pes_gameplay_killing_a_Skaven_warpfire_thrower_06": "아주 좋아, 친구들.",
+    "pes_gameplay_killing_a_Skaven_warpfire_thrower_06": "우린 무사해, 친구들. 불꽃쥐는 죽었어.",
     "pes_gameplay_killing_lootrat_05": "주머니 든 놈이 죽었어. 놈이 뭘 줍고 다녔을까?",
     "pes_level_elven_ruins_maze_approach_04": "앞으로 나아가자! 길을 막는 건 뭐든지 부숴버려!",
     "pes_gameplay_wood_elf_dead_04": "엘프가 죽었어! 벌써부터 조용하구만.",
@@ -2986,5 +2986,6 @@
     "pes_level_bogenhafen_slum_squalor_04": "타알이시여! 내가 여기 살았다면, 나는 숲으로 달아났을 거야. 적어도 거긴 공기는 깨끗하니까.",
     "pes_level_bogenhafen_slum_find_hideout_04": "저기요! 거기 아무도 없어요? 우리는 그저 쓰레기 같은 강도놈들이 있는지 둘러볼 뿐이에요! 걱정 안하셔도 됩니다!",
     "pes_gameplay_killing_ratling_06": "아무튼, 저 래틀링에 오줌이나 싸 버려.",
-    "pes_level_bogenhafen_city_blocked_02": "길이 막혔어. 이번엔 우리가 머리 좀 굴려야겠는데, 굴러가긴 한다면 말이야."
+    "pes_level_bogenhafen_city_blocked_02": "길이 막혔어. 이번엔 우리가 머리 좀 굴려야겠는데, 굴러가긴 한다면 말이야.",
+    "pes_gameplay_killing_a_chaos_wizard_wind_06": "블라이트스토머가 그 자리에서 고꾸라졌다!"
 }
