@@ -948,7 +948,7 @@
     "pes_gameplay_seeing_a_globadier_03": "조심해! 글로바디어다!",
     "pes_gameplay_chaos_wizard_leech_leeching_sienna_04": "소서러가 시에나를 붙잡았어, 친구들! 친구의 힘을 보여주자고!",
     "pes_level_chaos_war_camp_dead_champion_04": "우싱엔의 피의 복수를 조금이라도 해줬군.",
-    "pes_gameplay_spots_potion_16": "물약이다! 이쪽으로!",
+    "pes_gameplay_spots_potion_16": "독이다! 내 위치로!",
     "pes_portals_waystone_03": "푹 쉬고, 다시 돌아와서, 엉덩이를 걷어차주자고.",
     "pes_gameplay_killing_lootrat_06": "좋아! 자루 쥐가 죽었어!",
     "pes_level_skittergate_BOOM_01": "그게 마지막이었군!",
@@ -2778,5 +2778,14 @@
     "pes_level_elven_ruins_ravine_approach_02": "전방에 매복이 있다. 확실해.",
     "pes_wv_midnight_clear_01": "너는 어떨지 모르겠지만, 탁 트인 하늘을 보자면 내가 너무 작게 느껴져.",
     "pes_hu_level_bogenhafen_city_blocked_01": "어, 이 길이 아닌데. 분명 다른 길이 있을 거야. 이봐, 이건 내 탓이 아냐...",
-    "pes_level_ussingen_wrong_way_02": "우리 지금 길을 벗어났어, 친구들. 주위를 둘러봐."
+    "pes_level_ussingen_wrong_way_02": "우리 지금 길을 벗어났어, 친구들. 주위를 둘러봐.",
+    "pes_level_nurgle_nurglification_01": "저것 좀 봐. 역겨운 것들 투성이야.",
+    "pes_level_catacombs_spot_ritual_04": "저놈들이 저...저...저게 뭐든지 간에 끝내게 둘 수 없어.",
+    "pes_level_elven_ruins_untouched_04": "우리가 일찍 문명의 품으로 돌아갈수록 더 좋지.",
+    "pes_last_hero_standing_06": "상황이 안 좋아 보이는데 그래도 최소한 누가 불평하지는 없겠네.",
+    "pes_gameplay_wizard_downed_3_times_05": "너 오늘 여기저기 뛰어다니는 스퀴그 기수 같았어, 시에나.",
+    "pes_level_mine_darkness_02": "이봐, 누가 불을 껐어?",
+    "pes_gameplay_spots_potion_01": "물약이다!",
+    "pes_level_bogenhafen_slum_the_58_01": "아, 쉰여덟 창고구만! 안을 들여다 볼 수 있다면 좋을 텐데.",
+    "pes_gameplay_seeing_a_skaven_rat_ogre_04": "지그마께서 보우하신다!"
 }
