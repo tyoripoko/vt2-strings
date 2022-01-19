@@ -2991,7 +2991,7 @@
     "pes_gameplay_killing_a_stormfiend_07": "오, 정말 죽이는 광경이군. 그림으로 남길 수 있었으면 좋으련만.",
     "pes_level_helmgart_military_fire_cannon_02": "심지에 불을 붙여. 그리고 떨어져서 거리를 두라고!",
     "pes_gameplay_self_heal_06": "내가 상처를 덧댈 틈을 줘.",
-    "pes_level_catacombs_healing_ward_04": "완전히 난장판이군.",
+    "pes_level_catacombs_healing_ward_04": "완전히 난장판이구만.",
     "pes_gameplay_self_heal_07": "잠깐만, 우리 중 한명이 다쳤어.",
     "pes_gameplay_killing_a_Skaven_warpfire_thrower_07": "그렇지! 화염방사기를 처치했어!",
     "pes_gameplay_self_heal_10": "축복 받은 지그마 님이시여! 아까 맞은게 생각보다 깊구만.",
@@ -3015,5 +3015,9 @@
     "pes_gameplay_spots_health_04": "이런 행운이! 치유품이다!",
     "pes_gameplay_killing_a_stormfiend_03": "난 살짝 구워졌지만, 스톰핀드 놈은 죽어버렸지!",
     "pes_gameplay_killing_a_chaos_wizard_tentacle_05": "워프소환사가 그렇게 죽기를 바라니, 기꺼이 죽여 줬지!",
-    "pes_gameplay_spots_health_12": "이봐 저 쪽에 치료제가 놓여 있어!"
+    "pes_gameplay_spots_health_12": "이봐! 여기 치료제가 놓여 있어!",
+    "pes_gameplay_healing_wood_elf_01": "어서 치유해 주지.",
+    "pes_gameplay_spots_health_14": "여길 봐, 친구들. 치유 용품이야.",
+    "pes_gameplay_spots_health_16": "치유 용품, 내 위치에 있어.",
+    "pes_gameplay_healing_witch_hunter_02": "변화가 있으십니까, 나리?"
 }
