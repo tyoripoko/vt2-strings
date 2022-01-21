@@ -1666,7 +1666,7 @@
     "pes_gk_gameplay_special_enemy_kill_ranged_16": "날로 실력이 좋아지는구나, 전우들아.",
     "pes_level_farmlands_fence_01": "담장을 넘어가자, 친구들.",
     "pes_last_hero_standing_02": "친구들? 친구들? 오, 늘 이런 식이지, 빌어먹을...",
-    "pes_level_skittergate_docks_gate_04": "전진 앞으로! 멈추지들 마!",
+    "pes_level_skittergate_docks_gate_04": "앞으로 전진! 멈추지들 마!",
     "pes_level_ussingen_hurry_04": "당장 일어서! 빌어먹을 명령이다!",
     "pes_level_chaos_war_camp_arena_04": "여긴... 투기장인가? 오, 타알이시여, 우리 투기장에 들어왔잖아.",
     "pes_portals_objective_recap_03": "이것보다 쓸데없는 지도는 본 적 없어. 군대도 이거보단 낫겠다.",
@@ -3281,5 +3281,11 @@
     "pes_level_mine_darkness_01": "여긴 더럽게 어둡구만...",
     "pes_level_skittergate_elevator_02": "저 승강기를 이용하면 좋겠는데.",
     "pes_crawl_pub_destroyed_04": "뭐, 다른 좋은 계획에도 결점이 있었겠지...",
-    "pes_level_skittergate_docks_gate_01": "어서! 안으로 들어가!"
+    "pes_level_skittergate_docks_gate_01": "안으로 들어가! 뜀걸음 실시!",
+    "pes_level_farmland_stick_to_the_road_03": "길만 따라가면 맞는 방향으로 갈 수 있을거야.",
+    "pes_level_mine_bell_ringing_03": "종을 울려! 아주 즐거운 시간이 될 거야.",
+    "pes_level_farmland_stick_to_the_road_01": "꾸물거릴 시간 없어. 여기 좋은 길이 있으니 따라가자!",
+    "pes_level_farmland_stick_to_the_road_02": "뜀걸음 실시! 늑장부리지 마!",
+    "pes_portals_crypt_event_hole_02": "아래로! 뛰어 갓!",
+    "pes_portals_crypt_event_hole_04": "각오하는게 좋을거야. 구멍 아래로 들어가!"
 }
