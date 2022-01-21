@@ -1803,7 +1803,7 @@
     "pes_gameplay_i_will_tank_16": "나 방패 들었어. 내 뒤로 와!",
     "pes_objective_forest_ambush_spotting_lodge_ruins_03": "그루네발트 산장의 폐허로군, 저길 감시하는 순찰대를 지휘했던 적 있지. 왜 그랬담?",
     "pes_level_skaven_stronghold_long_way_down_02": "이제 어느 길로 가지, 친구들?",
-    "pes_gameplay_seeing_a_troll_08": "트롤이다! 계속 움직여. 놈이 밀어붙이게 두지 마!",
+    "pes_gameplay_seeing_a_troll_08": "트롤이잖아! 계속 움직여! 놈한테서 몰아붙여지지 않도록 해!",
     "pes_gameplay_killing_globadier_06": "니가 싫어하는 거겠지, 안 그러냐, 가스쥐?",
     "pes_ojective_cemetary_done_03": "다들 수고했어. 여기서 할 일은 다 끝났지, 응?",
     "pes_gameplay_no_nearby_teammates_06": "애들이 전부 어디로 갔지?",
@@ -3199,6 +3199,7 @@
     "pes_gameplay_hearing_a_Skaven_rat_ogre_12": "랫 오거 소리 같은데.",
     "pes_gameplay_seeing_a_troll_03": "바일 트롤이라고? 용기를 가져, 친구들, 그래야 저 야수 놈을 이길 수 있어.",
     "pes_gameplay_skaven_warlord_kill_03": "멋지게도 두들겨 팼군, 친구들! 염병하게 좋았다고!",
-    "pes_gameplay_no_nearby_teammates_12": "난 혼자 싸울 순 없어, 친구들.",
-    "pes_gameplay_seeing_a_troll_04": "바일 트롤을 안 본 지 몇 년 됐어, 헬름가르트 오기 전까지 말이야. 더럽게 운이 좋네."
+    "pes_gameplay_no_nearby_teammates_12": "혼자서 싸울 순 없다고, 친구들.",
+    "pes_gameplay_seeing_a_troll_04": "바일 트롤을 안 본 지 몇 년 됐어, 헬름가르트 오기 전까지 말이야. 더럽게 운이 좋네.",
+    "pes_gameplay_no_nearby_teammates_10": "그래, 그래, 참 재밌군. 빨리 여기로 돌아와!"
 }
