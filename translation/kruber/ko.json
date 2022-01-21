@@ -1749,7 +1749,7 @@
     "pes_gameplay_response_31": "그럼 네 달의 여신님께 기도해, 우리는 가능한 모든 신성이 필요하니까.",
     "pes_kn_level_bogenhafen_slum_ambush_01": "제국의 기사님을 처치할 수 있을거라 생각했냐, 응?",
     "pes_level_ground_zero_precarious_02": "앞만 봐, 친구들. 추락에 관한 건 생각도 하지 말고.",
-    "pes_gameplay_seeing_a_chaos_warrior_07": "저기 썩은 투구가 있다! 조심해, 아니면 목 달아나!",
+    "pes_gameplay_seeing_a_chaos_warrior_07": "저기 썩은 투구가 있다! 조심하지 않으면 목이 달아날 거야!",
     "pes_gameplay_response_146": "그게 교훈의 핵심이지, 안 그래?",
     "pes_gameplay_seeing_a_troll_01": "빌어먹을 트롤이다, 저기!",
     "pes_level_skittergate_ships_03": "북부인 함선이야. 오스틀란트 해안가에서 저것들하고 여러번 싸웠었지.",
@@ -2043,7 +2043,7 @@
     "pes_level_chaos_war_surprise_02": "지그마시여 제게 힘을 주소서, 놈들의 빌어먹을 투사를 보이소서.",
     "pes_gameplay_spots_bomb_17": "난 끝내주는 폭탄을 사랑하지!",
     "pes_gameplay_soldier_killing_rat_ogre_ranged_01_reply_04": "감사합니다, 나리. 저 랫 오거가 더 이상 울부짖지는 않겠네요.",
-    "pes_gameplay_soldier_hit_by_goo_thrice_02_reply_03": "신들이 나를 싫어해",
+    "pes_gameplay_soldier_hit_by_goo_thrice_02_reply_03": "신들께서 날 미워하시는군...",
     "pes_level_fort_river_02": "그럼, 상류로 건너가자고, 응?",
     "pes_gameplay_response_145": "수년간의 연습 덕분이지, 바딘.",
     "pes_level_skittergate_spotting_docks_03": "저기 우리 뒷문이 있군.",
@@ -3234,6 +3234,7 @@
     "pes_gameplay_seeing_a_pm_04": "저기! 역병 미치광이다!",
     "pes_gameplay_seeing_a_pm_02": "역병 버민이군, 온다!",
     "pes_gameplay_globadier_guck_12": "놈의 구슬이 날아온다!",
-    "pes_gameplay_seeing_a_chaos_warrior_02": "북부인 기사다! 조심하자고, 친구들!",
-    "pes_gameplay_seeing_a_pm_06": "조심해, 역병 쥐다!"
+    "pes_gameplay_seeing_a_chaos_warrior_02": "북부인 기사다! 단단히 준비하라고, 친구들!",
+    "pes_gameplay_seeing_a_pm_06": "조심해, 역병 쥐다!",
+    "pes_gameplay_seeing_a_chaos_warrior_champion_combat_05": "카오스 투사라고? 지금? 놈을 상대하려면 술이 좀 필요한데!"
 }
