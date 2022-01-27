@@ -161,6 +161,8 @@
     "arena_ruin_desc": "Prove your strength within this arena and thus assert your worthiness for divine aid.",
     "beastmen_standard_bearer": "Standard Bearer",
     "chaos_corruptor_sorcerer": "Lifeleech",
+    "curse_corrupted_flesh_desc": "Hexed enemies deal poison damage and create poison clouds when they die.",
+    "curse_khorne_champions_desc": "Beware of hexed enemies. Their fury enhances those who fight at their side.",
     "description_starter_bundle": "Contains Back to Ubersreik, Shadows of Bögenhafen, Forgotten Relics Weapon Pack",
     "display_name_starter_bundle": "Starter Bundle",
     "imperial_day_1": "Wellentag",
@@ -185,6 +187,8 @@
     "search_filter_locked": "locked",
     "search_filter_rarity": "rarity",
     "search_filter_reward": "reward",
+    "sig_snare_b_desc": "A sorcerous trap laid for the unwary, tempting them with visions of the past in order to unmake their future. Tread with care, and be ready for anything.",
+    "sig_snare_b_title": "The Pit of Reflections",
     "tooltip_playerlist_build_privacy": "Equipment & talents privacy�This controls who can see your equipment and talents in the playerlist menu.�Private: Nobody except yourself can see your build.�Friends: Only people in your friendlist.",
     "visibility_public": "Public",
     "wh_priest": "Warrior Priest of Sigmar"
