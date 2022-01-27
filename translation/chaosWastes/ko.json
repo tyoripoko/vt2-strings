@@ -1940,7 +1940,7 @@
     "pdr_morris_bay_stranded_ships_04": "배를 만들 건조할 땐 통나무가 아니라 강철로 만들어야 한다는 것 정도는 누구나 알고 있지!",
     "pwh_morris_tower_library_02": "저길 보게! 시간이 있었다면 모두 불태우련만!",
     "pwe_morris_citadel_gateway_02": "이제 우리의 노력의 결실을 시험해 볼 때가 왔군.",
-    "pwh_morris_mountain_stacked_stones_03": "봤나? 이 곳에선 자연의 법칙이 역류하네!",
+    "pwh_morris_mountain_stacked_stones_03": "보이나? 이 곳은 자연의 법칙에 반한다네!",
     "pes_mines_event_start_01": "크루버 여사의 가장 이쁜 아들이 데몬의 간식이 될 수 없지!",
     "pwe_morris_gorge_effigy_04": "놈들이 숭배하는 신들은 형용할 수 없는 공포스러운 공허의 메아리뿐이지.",
     "pwe_gorge_event_start_02": "장애물을 뚫어, 느림보들아!",
@@ -3088,5 +3088,8 @@
     "pwe_morris_mordrek_siege_camp_02": "하루살이들이란 요충지 벽 뒤에서 숨는걸 너무 좋아한단 말이지.",
     "pwh_morris_mordrek_siege_camp_01": "북부인들은 자기들끼리도 끊임없이 전쟁을 한다네, 영광을 찾는다면서!",
     "pwh_morris_mordrek_siege_camp_02": "하! 북부 놈들이 서로 싸우다 마지막 한명마저 죽여버린다면 좋으련만!",
-    "pwh_morris_mordrek_siege_camp_03": "공성은 규모가 참 크단 말이야..."
+    "pwh_morris_mordrek_siege_camp_03": "공성전의 규모가 이 정도일 줄은...",
+    "pwh_morris_mountain_stacked_stones_01": "공기 중에 더러운 마법이 있다는걸 의심할 필요가 있는가?",
+    "pwe_morris_mountain_stacked_stones_03": "조잡한 숭배를 위한 조잡한 장소라.",
+    "pwe_morris_mountain_stacked_stones_01": "의식을 위한 장소인 것 같네. 하루살이들아."
 }
