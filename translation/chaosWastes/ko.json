@@ -1782,7 +1782,7 @@
     "pwe_morris_volcano_glacier_01": "저희를 이끌어주소서, 서리 아버지시여, 도움이 절실한 때입니다.",
     "pwe_morris_volcano_fortress_04": "이건 저주에 도달하는 길이야. 우리의 종말을 괜히 쫓는거라고.",
     "pwh_morris_snare_c_one_04": "그 저주받을 스키터게이트만큼은 기억하고 싶지 않아!",
-    "pbw_morris_mordrek_pits_02": "워프화염이라니? 원조가 어때서?",
+    "pbw_morris_mordrek_pits_02": "워프파이어라니? 진짜 불이 어때서?",
     "pbw_morris_mordrek_pits_03": "뭐 화염은 화염이니 상관없겠지만... 뭔가 이상하단 말이야.",
     "pbw_morris_mordrek_siege_camp_01": "제발로 전쟁터로 걸어가야겠어, 자기들.",
     "pwe_morris_tower_stairs_02": "일부러 그러지 않고서야 계단을 이렇게 못 만들 리가 없는데...",
@@ -3099,7 +3099,12 @@
     "pwe_morris_forest_mine_01": "조잡하게도 만들었군. 하지만 버틸 순 있겠어.",
     "pwh_morris_forest_mine_03": "광산으로 향하게!",
     "pwe_morris_forest_mine_04": "그래, 저게 우리 쪽으로 무너지진 않겠지.",
-    "pwh_morris_forest_mine_02": "광산이 있네? 버려진 것 같은데.",
+    "pwh_morris_forest_mine_02": "광산인가? 버려진 것 같네만.",
     "pwh_morris_mordrek_pits_04": "워프파이어가 이렇게 많다니! 헬름가르트가 이놈들에게 공격받지 않아서 다행이야.",
-    "pwe_morris_mordrek_pits_04": "쥐인간들이 하는 짓을 보면, 저 불구덩이는 일부러 만든 게 아냐. 무언가가 폭발한 거지."
+    "pwe_morris_mordrek_pits_04": "쥐인간들이 하는 짓을 보면, 저 불구덩이는 일부러 만든 게 아냐. 무언가가 폭발한 거지.",
+    "pwh_morris_mordrek_pits_03": "워프파이어군! 공기마저 같이 전율하고 있네!",
+    "pwe_morris_mordrek_pits_01": "워프파이어 냄새는 딱 질색이야.",
+    "pwe_morris_mordrek_pits_02": "저 워프파이어는 통제불능인 것 같네.",
+    "pwh_morris_forest_mine_04": "광산을 통과해야만 하네!",
+    "pwe_morris_mordrek_pits_03": "놈들은 대체 무슨 생각을 한거야? 워프파이어가 돌도 못 태우잖아!"
 }
