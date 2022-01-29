@@ -2329,7 +2329,7 @@
     "menu_weave_forge_tooltip_weave_power_title": "위브 힘 수치",
     "morris_volcano_escape_into_portal": "케언 게이트 찾기",
     "blessing_rally_flag_desc": "비취 향로를 획득합니다 (회복류, 일회용). 설치 시 120초간 주변 아군의 체력을 회복하고 활력을 증가시킵니다.",
-    "deus_weapon_chest_upgrade_action": "무기 벼리기",
+    "deus_weapon_chest_upgrade_action": "무기 강화하기",
     "tank_unbalance_desc": "경직된 적은 모든 근접 공격으로부터 %d%% 추가 피해를 입으며 %d초간 지속됩니다.\\n\\n경직된 적에게 %d%% 추가 피해를 입힙니다. 이미 경직된 적에게 타격을 줄 경우 경직 단계가 상승합니다. 경직 단계가 상승한 적에게는 %d%% 추가 피해를 입힙니다.",
     "mutator_deus_less_monsters_name": "- 괴물 (랫 오거, 기타)",
     "markus_questing_knight_push_arc_stamina_reg_desc": "밀치기 각도 및 스태미나 재생 속도가 %d%% 증가합니다.",
