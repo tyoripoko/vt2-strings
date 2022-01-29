@@ -1099,5 +1099,6 @@
     "datetime_october": "10月%d",
     "hotkey_store": "ルーナーの珍品交易所ホットキー",
     "item_dlc_unavailable": "このアイテムには、現在所有していないDLCが必要です。",
-    "matchmaking_ready_interaction_message_store": "〈影の橋〉の中にいる間は、「ルーナーの珍品交易所」にアクセスできません。"
+    "matchmaking_ready_interaction_message_store": "〈影の橋〉の中にいる間は、「ルーナーの珍品交易所」にアクセスできません。",
+    "quest_daily_complete_quickplay_missions_name": "ヘルムガートの猛者"
 }
